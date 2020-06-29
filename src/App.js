@@ -44,7 +44,7 @@ class App extends Component{
           id: 9
         }
       ] 
-    };
+    }; 
   }
 
   render(){
